@@ -1,0 +1,6 @@
+langchain
+langchain-openai
+gspread
+google-auth
+requests
+python-dotenv
